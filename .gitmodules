@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nic"]
+	path = nic
+	url = https://github.com/thiyangt/nic
+	shallow = true
+	registered = true
+[submodule "seer"]
+	path = seer
+	url = https://github.com/thiyangt/seer
+	shallow = true
+	registered = true

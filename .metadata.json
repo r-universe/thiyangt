@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nic",
+    "oncran": true
+  },
+  {
+    "package": "seer",
+    "oncran": true
+  }
+]
