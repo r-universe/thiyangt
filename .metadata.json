@@ -1,5 +1,9 @@
 [
   {
+    "package": "colmozzie",
+    "oncran": true
+  },
+  {
     "package": "nic",
     "oncran": true
   },
