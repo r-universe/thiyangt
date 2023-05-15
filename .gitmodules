@@ -8,6 +8,11 @@
 	url = https://github.com/thiyangt/colmozzie
 	shallow = true
 	registered = true
+[submodule "denguedatahub"]
+	path = denguedatahub
+	url = https://github.com/thiyangt/denguedatahub
+	shallow = true
+	registered = true
 [submodule "nic"]
 	path = nic
 	url = https://github.com/thiyangt/nic
