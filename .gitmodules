@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DSjobtracker"]
+	path = DSjobtracker
+	url = https://github.com/thiyangt/dsjobtracker
 [submodule "colmozzie"]
 	path = colmozzie
 	url = https://github.com/thiyangt/colmozzie
