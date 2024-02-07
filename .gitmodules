@@ -17,3 +17,6 @@
 [submodule "seer"]
 	path = seer
 	url = https://github.com/thiyangt/seer
+[submodule "tsdataleaks"]
+	path = tsdataleaks
+	url = https://github.com/thiyangt/tsdataleaks
