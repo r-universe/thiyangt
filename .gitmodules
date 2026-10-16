@@ -17,3 +17,6 @@
 [submodule "tsdataleaks"]
 	path = tsdataleaks
 	url = https://github.com/thiyangt/tsdataleaks
+[submodule "tsspiral"]
+	path = tsspiral
+	url = https://github.com/thiyangt/tsspiral
